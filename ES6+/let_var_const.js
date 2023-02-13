@@ -1,4 +1,4 @@
-// First
+// //First
 // if(true){
 //   // let a = 2; 
 //     var a = 2; 
@@ -6,7 +6,7 @@
 
 // console.log(a);
 
-//second
+// //second
 
 // let a = 42;
 // {
@@ -33,7 +33,7 @@
 // App()
 
 
-//fourth
+// fourth
 
 // let a = 100;
 // function App() {
@@ -44,7 +44,7 @@
 // App()
 // console.log("final", a)
 
-//fifth 
+// fifth 
 
 // const obj = {a: 1, b:2};
 
@@ -52,11 +52,12 @@
 
 // obj = obj1;
 
-//sixth 
-const arr = [1, 2, 3, 4, 5];
-arr.push(7)
+// sixth 
+// const arr = [1, 2, 3, 4, 5];
+// arr.push(7)
 
-console.log(arr.push());
+// console.log(arr.push());
 
+const obje = { a: 3, b: 5};
 
-
+obje = 'akash';
